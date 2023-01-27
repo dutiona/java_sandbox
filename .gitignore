@@ -26,6 +26,7 @@ bin/
 .vscode/
 .history/
 .idea/
+build/
 
 ### Mac OS ###
 .DS_Store
